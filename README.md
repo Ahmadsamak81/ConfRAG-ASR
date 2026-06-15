@@ -154,21 +154,6 @@ README.md                 ← This file
 **Supervisor:** Prof. Asma Sbaih — University of Seville
 
 ---
-
-## Citation
-
-If you use this work, please cite:
-
-```bibtex
-@article{elsamak2026confrag,
-  title   = {Retrieval-Augmented Post-Correction of Clinical Automatic
-             Speech Recognition with Confidence-Guided
-             Anti-Hallucination Filtering},
-  author  = {ElSamak, Ahmad and AlSaedi, Lamiya and
-             Abed, Ramzi and Saqalla, Wisam},
-  journal = {Computer Speech \& Language},
-  year    = {2026}
-}
 ```
 
 ---
@@ -180,6 +165,3 @@ If you use this work, please cite:
 
 ---
 
-## License
-
-MIT License
