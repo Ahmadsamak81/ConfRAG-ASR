@@ -154,7 +154,6 @@ README.md                 ← This file
 **Supervisor:** Prof. Asma Sbaih — University of Seville
 
 ---
-```
 
 ---
 
