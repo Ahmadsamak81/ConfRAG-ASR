@@ -84,12 +84,12 @@ Audio → [1] Frozen Whisper ASR
 
 CTCB error patterns were validated against 102 real Whisper errors:
 
-| Error Type | Whisper % | CTCB % | |Δ| |
-|------------|-----------|--------|-----|
+| Error Type | Whisper % | CTCB % | Diff |
+|---|---|---|---|
 | Phonetic Substitution | 64.7% | 66.0% | **1.3%** |
 | Word Splitting | 29.4% | 19.0% | 10.4% |
 | Syllable Deletion | 5.9% | 0.0% | 5.9% |
-| **TVD** | | | **0.163** |
+| **TVD** | — | — | **0.163** |
 
 > TVD = 0.163 → Moderate structural similarity ✅
 
