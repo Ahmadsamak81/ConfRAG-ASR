@@ -149,7 +149,7 @@ README.md                 ← This file
 | Ahmad ElSamak | Islamic University of Gaza |
 | Lamiya AlSaedi | Islamic University of Gaza |
 | Ramzi Abed | Islamic University of Gaza |
-| Wisam Saqalla | Islamic University of Gaza |
+| Wesam Sakalla | Islamic University of Gaza |
 
 **Supervisor:** Prof. Asma Sbaih — University of Seville
 
